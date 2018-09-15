@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Don Draper",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Don_Draper_Wiki.jpg/220px-Don_Draper_Wiki.jpg",
+    "occupation": "Brooder",
+    "location": "The Bar"
+  },
+  {
+    "id": 2,
+    "name": "Peggy Olson",
+    "image": "https://res.cloudinary.com/jpress/image/fetch/c_fill,f_auto,h_640,q_auto:eco,w_960/https://inews.co.uk/wp-content/uploads/2017/07/peggy-olson-mad-men.jpg",
+    "occupation": "Kickass Copywriter",
+    "location": "Her Office"
+  },
+  {
+    "id": 3,
+    "name": "Betty Draper",
+    "image": "https://pbs.twimg.com/profile_images/822442581141442561/JqeGNq4Y_400x400.jpg",
+    "occupation": "House Wife",
+    "location": "The Barn"
+  },
+  {
+    "id": 4,
+    "name": "Peter Campbell",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Pete_Campbell_Wiki.jpg/220px-Pete_Campbell_Wiki.jpg",
+    "occupation": "The Ambitious One",
+    "location": "Don's Office"
+  },
+  {
+    "id": 5,
+    "name": "Roger Sterling",
+    "image": "https://vignette.wikia.nocookie.net/madmen/images/c/ca/S6_Roger_%2801%29.jpg/revision/latest?cb=20130315221913",
+    "occupation": "The Silver Fox",
+    "location": "Someone's Apartment"
+  },
+  {
+    "id": 6,
+    "name": "Megan Draper",
+    "image": "https://flavorwire.files.wordpress.com/2015/03/megan-draper.jpg?w=1920",
+    "occupation": "Actress",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 7,
+    "name": "Joan Holloway",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Joan_Holloway_Wiki.jpg",
+    "occupation": "Entrepreneur",
+    "location": "At her desk"
+  },
+  {
+    "id": 8,
+    "name": "Sally Draper",
+    "image": "https://vignette.wikia.nocookie.net/madmen/images/0/0e/S6_Sally_%2804%29.jpg/revision/latest?cb=20130315221916",
+    "occupation": "The Child",
+    "location": "Home"
+  },
+  {
+    "id": 9,
+    "name": "Trudy Campbell",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-img.instyle.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F684xflex%2Fpublic%2Fimages%2F2014%2FWRN%2F041814-alison-brie-mad-men-594.jpg%3Fitok%3DYg-yWW5I&w=700&q=85",
+    "occupation": "Adventurer",
+    "location": "TBD"
+  }
+  
+]
